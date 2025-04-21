@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Yeager Machiavalli, a 19-year-old Computer Science student with a strong passion for software development, web technologies, and digital innovation.<br><br>I’m currently building real-world projects ranging from personal portfolios to business websites, combining clean design with functional code. My goal is to continuously grow as a developer, contribute to meaningful solutions, and build a solid foundation in both front-end and back-end development.<br><br>I believe in learning by doing — every line of code I write brings me one step closer to mastering the craft.
+I’m Richmond, a 19-year-old Computer Science student with a strong passion for software development, web technologies, and digital innovation.<br><br>I’m currently building real-world projects ranging from personal portfolios to business websites, combining clean design with functional code. My goal is to continuously grow as a developer, contribute to meaningful solutions, and build a solid foundation in both front-end and back-end development.<br><br>I believe in learning by doing — every line of code I write brings me one step closer to mastering the craft.
 
 
 ## 🌐 Socials:
